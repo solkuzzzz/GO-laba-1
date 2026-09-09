@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Анна Петрова",      "department": "Engineering", "salary": 145000 },
+  { "id": 2, "name": "Борис Смирнов",     "department": "Engineering", "salary": 120000 },
+  { "id": 3, "name": "Вера Кузнецова",    "department": "Sales",       "salary": 98000 },
+  { "id": 4, "name": "Глеб Соколов",      "department": "Sales",       "salary": 87000 },
+  { "id": 5, "name": "Дарья Морозова",    "department": "HR",          "salary": 76000 },
+  { "id": 6, "name": "Егор Волков",       "department": "Marketing",   "salary": 91000 },
+  { "id": 7, "name": "Жанна Лебедева",    "department": "Engineering", "salary": 160000 },
+  { "id": 8, "name": "Игорь Новиков",     "department": "Marketing",   "salary": 82000 }
+]
